@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="072ee8f7-23a0-445e-b623-0f72b12c67a7" name="Changes" comment="added VehicleImpl.java class">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="072ee8f7-23a0-445e-b623-0f72b12c67a7" name="Changes" comment="created fields in AutomatedManualTransmission.java class">
       <change beforePath="$PROJECT_DIR$/src/main/java/com/vehicles/AutomatedManualTransmission.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vehicles/AutomatedManualTransmission.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vehicles/AutomaticCVT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vehicles/AutomaticCVT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vehicles/ManualTransmission.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vehicles/ManualTransmission.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vehicles/Transmission.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vehicles/Transmission.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vehicles/VehicleImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vehicles/VehicleImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -202,7 +197,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661860149276</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="created fields in AutomatedManualTransmission.java class">
+      <created>1661868904141</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1661868904141</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -235,7 +237,8 @@
     <MESSAGE value="created toSting method in ManualTransmission" />
     <MESSAGE value="created showSpec method in ManualTransmission" />
     <MESSAGE value="added VehicleImpl.java class" />
-    <option name="LAST_COMMIT_MESSAGE" value="added VehicleImpl.java class" />
+    <MESSAGE value="created fields in AutomatedManualTransmission.java class" />
+    <option name="LAST_COMMIT_MESSAGE" value="created fields in AutomatedManualTransmission.java class" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
