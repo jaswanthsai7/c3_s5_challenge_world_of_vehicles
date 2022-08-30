@@ -6,5 +6,9 @@
 package com.vehicles;
 
 public class ManualTransmission extends Transmission {
+    private float gear1Ratio;
+    private float gear2ratio;
+    private float gear3ratio;
+    private float gear4ratio;
 
 }
