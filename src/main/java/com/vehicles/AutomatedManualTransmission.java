@@ -23,4 +23,25 @@ public class AutomatedManualTransmission extends Transmission {
         }
 
     }
+
+
+    public void showSpec() {
+        if (allGearRatios.length == 4) {
+            System.out.println("Transmission Name : AutomatedManualTransmission");
+            System.out.println("Transmission Model Number : AMTP4");
+            System.out.println("1) Forward Gears " + frontGears);
+            for (int i = 0; i < allGearRatios.length; i++) {
+                System.out.println((i + 2) + ")" + " Gear Ratio " + allGearRatios[i] + "0");
+            }
+        } else if (allGearRatios.length == 5) {
+            System.out.println("Transmission Name : AutomatedManualTransmission");
+            System.out.println("Transmission Model Number : AMTD5");
+            System.out.println("1) Forward Gears " + frontGears);
+            for (int i = 0; i < allGearRatios.length; i++) {
+                System.out.println((i + 2) + ")" + " Gear Ratio " + (allGearRatios[i]) + "0");
+
+            }
+
+        }
+    }
 }
