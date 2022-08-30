@@ -12,9 +12,19 @@ public class AutomaticCVT extends Transmission {
     public AutomaticCVT() {
     }
 
-    public AutomaticCVT(String modelNumber, double[] allGearRatios, int forwardGears) {
+    public AutomaticCVT(String modelNumber) {
         super(modelNumber);
         this.allGearRatios = new double[]{2.631, 1.440, 1.165, 0.960, 0.680, 0.499};
         this.forwardGears = 6;
+    }
+
+    public void showSpecs() {
+        System.out.println("Transmission Name : AutomaticCVT");
+        System.out.println("Transmission Model Number : " + getModelNumber());
+        System.out.println("1) Forward Gears " + forwardGears);
+        for (int i = 0; i < allGearRatios.length; i++) {
+            System.out.println((i + 2) + ") " + (i + 1) + "Gear Ratio " + allGearRatios[i] + "0");
+        }
+
     }
 }
