@@ -15,7 +15,7 @@ public class AutomaticCVT extends Transmission {
     public AutomaticCVT(String modelNumber) {
         super(modelNumber);
         this.allGearRatios = new double[]{2.631, 1.440, 1.165, 0.960, 0.680, 0.499};
-        this.forwardGears = 6;
+        this.forwardGears = allGearRatios.length;
     }
 
     public void showSpecs() {

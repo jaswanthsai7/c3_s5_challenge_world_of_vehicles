@@ -7,6 +7,11 @@ package com.vehicles;
 
 public class VehicleImpl {
     public static void main(String[] args) {
+        ManualTransmission manualTransmission = new ManualTransmission();
+        AutomatedManualTransmission automatedManualTransmission = new AutomatedManualTransmission();
+        AutomaticCVT automaticCVT = new AutomaticCVT();
+        AutomaticDCT automaticDCT = new AutomaticDCT();
+
 
     }
 
