@@ -21,4 +21,36 @@ public class ManualTransmission extends Transmission {
         this.gear3ratio = gear3ratio;
         this.gear4ratio = gear4ratio;
     }
+
+    public float getGear1Ratio() {
+        return gear1Ratio;
+    }
+
+    public void setGear1Ratio(float gear1Ratio) {
+        this.gear1Ratio = gear1Ratio;
+    }
+
+    public float getGear2ratio() {
+        return gear2ratio;
+    }
+
+    public void setGear2ratio(float gear2ratio) {
+        this.gear2ratio = gear2ratio;
+    }
+
+    public float getGear3ratio() {
+        return gear3ratio;
+    }
+
+    public void setGear3ratio(float gear3ratio) {
+        this.gear3ratio = gear3ratio;
+    }
+
+    public float getGear4ratio() {
+        return gear4ratio;
+    }
+
+    public void setGear4ratio(float gear4ratio) {
+        this.gear4ratio = gear4ratio;
+    }
 }
