@@ -53,4 +53,14 @@ public class ManualTransmission extends Transmission {
     public void setGear4ratio(float gear4ratio) {
         this.gear4ratio = gear4ratio;
     }
+
+    @Override
+    public String toString() {
+        return "ManualTransmission{" +
+                "gear1Ratio=" + gear1Ratio +
+                ", gear2ratio=" + gear2ratio +
+                ", gear3ratio=" + gear3ratio +
+                ", gear4ratio=" + gear4ratio +
+                "} " + super.toString();
+    }
 }
