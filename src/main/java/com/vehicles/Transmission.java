@@ -7,13 +7,15 @@ package com.vehicles;
 
 public class Transmission {
     private String modelNumber;
-    private int forwardGears;
 
     public Transmission() {
     }
 
-    public Transmission(String modelNumber, int forwardGears) {
+    public Transmission(String modelNumber) {
         this.modelNumber = modelNumber;
-        this.forwardGears = forwardGears;
+    }
+
+    public String getModelNumber() {
+        return modelNumber;
     }
 }

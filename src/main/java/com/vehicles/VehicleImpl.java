@@ -6,5 +6,8 @@
 package com.vehicles;
 
 public class VehicleImpl {
+    public static void main(String[] args) {
+
+    }
 
 }
