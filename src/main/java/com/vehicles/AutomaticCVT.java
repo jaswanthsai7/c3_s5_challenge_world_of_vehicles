@@ -6,4 +6,6 @@
 package com.vehicles;
 
 public class AutomaticCVT extends Transmission {
+    private double[] allGearRatios;
+    private int forwardGears;
 }
