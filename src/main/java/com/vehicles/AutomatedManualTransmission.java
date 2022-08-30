@@ -25,6 +25,9 @@ public class AutomatedManualTransmission extends Transmission {
     }
 
 
+    /**
+     * This function is used to display the specifications of the transmission
+     */
     public void showSpecs() {
         if (allGearRatios.length == 4 && "AMTP4".equals(getModelNumber())) {
             System.out.println("Transmission Name : AutomatedManualTransmission");

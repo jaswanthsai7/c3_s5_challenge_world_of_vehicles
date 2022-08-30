@@ -18,6 +18,9 @@ public class AutomaticCVT extends Transmission {
         this.forwardGears = allGearRatios.length;
     }
 
+    /**
+     * The function showSpecs() prints out the transmission name, model number, and all the gear ratios
+     */
     public void showSpecs() {
         System.out.println("Transmission Name : AutomaticCVT");
         System.out.println("Transmission Model Number : " + getModelNumber());

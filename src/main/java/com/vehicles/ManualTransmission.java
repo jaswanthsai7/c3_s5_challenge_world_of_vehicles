@@ -32,6 +32,9 @@ public class ManualTransmission extends Transmission {
         }
     }
 
+    /**
+     * This function prints out the specs of the transmission
+     */
     public void showSpecs() {
         if (allGearRatios.length == 5 && "MP5".equals(getModelNumber())) {
             System.out.println("Transmission Name : Manual Transmission");

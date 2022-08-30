@@ -18,6 +18,9 @@ public class AutomaticDCT extends Transmission {
         this.forwardGears = allGearRatios.length;
     }
 
+    /**
+     * This function prints out the transmission name, model number, and all the gear ratios
+     */
     public void showSpecs() {
         System.out.println("Transmission Name : AutomaticDCT");
         System.out.println("Transmission Model Number : " + getModelNumber());
