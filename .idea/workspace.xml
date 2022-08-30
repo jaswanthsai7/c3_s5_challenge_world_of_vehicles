@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="072ee8f7-23a0-445e-b623-0f72b12c67a7" name="Changes" comment="created showSpecs method in AutomaticCVT.java class">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vehicles/AutomaticDCT.java" afterDir="false" />
+    <list default="true" id="072ee8f7-23a0-445e-b623-0f72b12c67a7" name="Changes" comment="created constructor methods in AutomaticDCT.java class">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vehicles/AutomaticDCT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vehicles/AutomaticDCT.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -246,7 +246,28 @@
       <option name="project" value="LOCAL" />
       <updated>1661869829550</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="added AutomaticDCT.java class and extends transmission">
+      <created>1661869920551</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1661869920551</updated>
+    </task>
+    <task id="LOCAL-00027" summary="created fields in AutomaticDCT.java class">
+      <created>1661869952754</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1661869952754</updated>
+    </task>
+    <task id="LOCAL-00028" summary="created constructor methods in AutomaticDCT.java class">
+      <created>1661870062807</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1661870062807</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -261,9 +282,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="initial commit" />
-    <MESSAGE value="changed the source and target JDK version to 11" />
-    <MESSAGE value="changed the language level to 11" />
     <MESSAGE value="added Transmission.java class" />
     <MESSAGE value="added ManualTransmission.java class" />
     <MESSAGE value="created the fields in Transmission Type" />
@@ -286,7 +304,10 @@
     <MESSAGE value="created fields in AutomaticCVT.java class" />
     <MESSAGE value="created constructor method in AutomaticCVT.java class" />
     <MESSAGE value="created showSpecs method in AutomaticCVT.java class" />
-    <option name="LAST_COMMIT_MESSAGE" value="created showSpecs method in AutomaticCVT.java class" />
+    <MESSAGE value="added AutomaticDCT.java class and extends transmission" />
+    <MESSAGE value="created fields in AutomaticDCT.java class" />
+    <MESSAGE value="created constructor methods in AutomaticDCT.java class" />
+    <option name="LAST_COMMIT_MESSAGE" value="created constructor methods in AutomaticDCT.java class" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
