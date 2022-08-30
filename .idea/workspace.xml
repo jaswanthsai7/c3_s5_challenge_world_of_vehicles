@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="072ee8f7-23a0-445e-b623-0f72b12c67a7" name="Changes" comment="added Transmission.java class">
+    <list default="true" id="072ee8f7-23a0-445e-b623-0f72b12c67a7" name="Changes" comment="created the fields in Transmission Type">
       <change beforePath="$PROJECT_DIR$/src/main/java/com/vehicles/Transmission.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vehicles/Transmission.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +79,21 @@
       <option name="project" value="LOCAL" />
       <updated>1661855015001</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added ManualTransmission.java class">
+      <created>1661855391521</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1661855391521</updated>
+    </task>
+    <task id="LOCAL-00006" summary="created the fields in Transmission Type">
+      <created>1661855575736</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1661855575736</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,7 +112,9 @@
     <MESSAGE value="changed the source and target JDK version to 11" />
     <MESSAGE value="changed the language level to 11" />
     <MESSAGE value="added Transmission.java class" />
-    <option name="LAST_COMMIT_MESSAGE" value="added Transmission.java class" />
+    <MESSAGE value="added ManualTransmission.java class" />
+    <MESSAGE value="created the fields in Transmission Type" />
+    <option name="LAST_COMMIT_MESSAGE" value="created the fields in Transmission Type" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
