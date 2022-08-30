@@ -5,5 +5,5 @@
  */
 package com.vehicles;
 
-public class AutomatedManualTransmission extends Transmission {
+public class AutomaticCVT extends Transmission {
 }
