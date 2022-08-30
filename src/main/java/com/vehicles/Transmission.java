@@ -16,28 +16,4 @@ public class Transmission {
         this.modelNumber = modelNumber;
         this.forwardGears = forwardGears;
     }
-
-    public String getModelNumber() {
-        return modelNumber;
-    }
-
-    public void setModelNumber(String modelNumber) {
-        this.modelNumber = modelNumber;
-    }
-
-    public int getForwardGears() {
-        return forwardGears;
-    }
-
-    public void setForwardGears(int forwardGears) {
-        this.forwardGears = forwardGears;
-    }
-
-    @Override
-    public String toString() {
-        return "Transmission{" +
-                "modelNumber='" + modelNumber + '\'' +
-                ", forwardGears=" + forwardGears +
-                '}';
-    }
 }

@@ -5,7 +5,6 @@
  */
 package com.vehicles;
 
-public class ManualTransmission extends Transmission {
-
+public class VehicleImpl {
 
 }
