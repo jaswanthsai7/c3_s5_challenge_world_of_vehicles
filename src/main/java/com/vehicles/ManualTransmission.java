@@ -63,4 +63,9 @@ public class ManualTransmission extends Transmission {
                 ", gear4ratio=" + gear4ratio +
                 "} " + super.toString();
     }
+
+    public String showSpec() {
+        return "Transmission Type : Manual Transmission" + "\n Model number : " + getModelNumber()
+                + "\n Forward Gears : " + getForwardGears() + toString();
+    }
 }
