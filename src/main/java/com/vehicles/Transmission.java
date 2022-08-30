@@ -6,4 +6,6 @@
 package com.vehicles;
 
 public class Transmission {
+    private String modelNumber;
+    private int forwardGears;
 }

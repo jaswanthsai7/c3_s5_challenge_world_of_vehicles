@@ -6,4 +6,5 @@
 package com.vehicles;
 
 public class ManualTransmission {
+
 }
