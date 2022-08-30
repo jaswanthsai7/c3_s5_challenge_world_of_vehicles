@@ -32,4 +32,12 @@ public class Transmission {
     public void setForwardGears(int forwardGears) {
         this.forwardGears = forwardGears;
     }
+
+    @Override
+    public String toString() {
+        return "Transmission{" +
+                "modelNumber='" + modelNumber + '\'' +
+                ", forwardGears=" + forwardGears +
+                '}';
+    }
 }
