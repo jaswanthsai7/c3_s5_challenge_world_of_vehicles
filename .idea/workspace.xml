@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="072ee8f7-23a0-445e-b623-0f72b12c67a7" name="Changes" comment="created print statement after every method call">
+    <list default="true" id="072ee8f7-23a0-445e-b623-0f72b12c67a7" name="Changes" comment="created JDoc for the methods in each class">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vehicles/AutomatedManualTransmission.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vehicles/AutomatedManualTransmission.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vehicles/AutomaticCVT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vehicles/AutomaticCVT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vehicles/AutomaticDCT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vehicles/AutomaticDCT.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/vehicles/ManualTransmission.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vehicles/ManualTransmission.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/vehicles/VehicleImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vehicles/VehicleImpl.java" afterDir="false" />
     </list>
@@ -300,7 +297,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661872621195</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="created JDoc for the methods in each class">
+      <created>1661873466796</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1661873466796</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -315,7 +319,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="created the getter and setter methods in Transmission Type" />
     <MESSAGE value="created toString() method in Transmission Type" />
     <MESSAGE value="made ManualTransmission extends Transmission" />
     <MESSAGE value="added AutomatedManualTransmission.java class" />
@@ -340,7 +343,8 @@
     <MESSAGE value="created an object to call the methods in class and initialize them" />
     <MESSAGE value="called the method in ManualTransmission class to print" />
     <MESSAGE value="created print statement after every method call" />
-    <option name="LAST_COMMIT_MESSAGE" value="created print statement after every method call" />
+    <MESSAGE value="created JDoc for the methods in each class" />
+    <option name="LAST_COMMIT_MESSAGE" value="created JDoc for the methods in each class" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />

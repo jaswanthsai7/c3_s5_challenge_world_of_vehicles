@@ -39,7 +39,6 @@ public class ManualTransmission extends Transmission {
         if (allGearRatios.length == 5 && "MP5".equals(getModelNumber())) {
             System.out.println("Transmission Name : Manual Transmission");
             System.out.println("Transmission Model Number : MP5");
-            System.out.println(" 1) Forward Gears " + forwardGears);
             System.out.println("1) Forward Gears " + forwardGears);
             for (int i = 0; i < allGearRatios.length; i++) {
                 System.out.println((i + 2) + ") " + (i + 1) + "Gear Ratio " + allGearRatios[i] + "0");
@@ -47,7 +46,6 @@ public class ManualTransmission extends Transmission {
         } else if (allGearRatios.length == 4 && "MP4".equals(getModelNumber())) {
             System.out.println("Transmission Name : Manual Transmission");
             System.out.println("Transmission Model Number : MP4");
-            System.out.println(" 1) Forward Gears " + forwardGears);
             System.out.println("1) Forward Gears " + forwardGears);
             for (int i = 0; i < allGearRatios.length; i++) {
                 System.out.println((i + 2) + ") " + (i + 1) + "Gear Ratio " + allGearRatios[i] + "0");
@@ -55,7 +53,6 @@ public class ManualTransmission extends Transmission {
         } else if (allGearRatios.length == 4 && "MP4".equals(getModelNumber())) {
             System.out.println("Transmission Name : Manual Transmission");
             System.out.println("Transmission Model Number : MP4");
-            System.out.println(" 1) Forward Gears " + forwardGears);
             System.out.println("1) Forward Gears " + forwardGears);
             for (int i = 0; i < allGearRatios.length; i++) {
                 System.out.println((i + 2) + ") " + (i + 1) + "Gear Ratio " + allGearRatios[i] + "0");
@@ -63,7 +60,6 @@ public class ManualTransmission extends Transmission {
         } else if (allGearRatios.length == 6 && "MP6".equals(getModelNumber())) {
             System.out.println("Transmission Name : Manual Transmission");
             System.out.println("Transmission Model Number : MP6");
-            System.out.println(" 1) Forward Gears " + forwardGears);
             System.out.println("1) Forward Gears " + forwardGears);
             for (int i = 0; i < allGearRatios.length; i++) {
                 System.out.println((i + 2) + ") " + (i + 1) + "Gear Ratio " + allGearRatios[i] + "0");
@@ -71,7 +67,6 @@ public class ManualTransmission extends Transmission {
         } else if (allGearRatios.length == 6 && "MD6".equals(getModelNumber())) {
             System.out.println("Transmission Name : Manual Transmission");
             System.out.println("Transmission Model Number : MD6");
-            System.out.println(" 1) Forward Gears " + forwardGears);
             System.out.println("1) Forward Gears " + forwardGears);
             for (int i = 0; i < allGearRatios.length; i++) {
                 System.out.println((i + 2) + ") " + (i + 1) + "Gear Ratio " + allGearRatios[i] + "0");

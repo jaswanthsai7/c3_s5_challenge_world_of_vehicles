@@ -8,7 +8,7 @@ package com.vehicles;
 public class VehicleImpl {
     public static void main(String[] args) {
         // declare and initialise the values to an object
-        ManualTransmission manualTransmission = new ManualTransmission("MD5");
+        ManualTransmission manualTransmission = new ManualTransmission("MD6");
         AutomatedManualTransmission automatedManualTransmission = new AutomatedManualTransmission("AMTD5");
         AutomaticCVT automaticCVT = new AutomaticCVT("CVT6");
         AutomaticDCT automaticDCT = new AutomaticDCT("DCT8");
